@@ -1,1 +1,1 @@
-# Tali-website
+# TALI GRAPIC — Premium RTL Landing\n\nVite + React + Tailwind + Framer Motion (Hebrew, RTL). Ready for Vercel.\n\n## Dev\n```bash\nnpm i\nnpm run dev\n```\n\n## Build\n```bash\nnpm run build\n```\n\n## Vercel\nFramework: Vite\nBuild: npm run build\nOutput: dist\n
